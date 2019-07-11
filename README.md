@@ -3,7 +3,7 @@
 > 现在的Flutter正是如火中天，昨天Google官方正式发布了`Flutter1.7`版本，主要包含了对Android X的支持和Play Store的一些更新，一些新的和增强的组件，以及一些问题的修复。
 
 本篇文章我们一起开发一个炫炫的列表展示，伴随着滚动，背景做一些相应的动画效果。先看下效果图:
-<img src="http://pt2k23f08.bkt.clouddn.com/blogscreenanimation1.gif" width="300" alt="screenanimation" />
+![](http://pt2k23f08.bkt.clouddn.com/blogscreenanimation1.gif)
 
 ### 思路
 列表滚动的时候，获取垂直方向的滚动距离，再将这个值转化成角度单位带动齿轮的滚动
@@ -227,5 +227,5 @@ OverflowBox组件可以通过alignment(锚点)很好的控制子组件的显示�
 本篇文章能学到Flutter很多知识，包括：StatelessWidget/StatefulWidget的创建、本地数据的创建和使用、列表的展示和控制、垂直水平布局等等，想看效果的同学可以直接跑源码哦
 - [源码地址](https://github.com/xch1029/scroll-animation)
 - [博客本文地址](https://jser.tech/2019/07/11/flutter-scroll-animation)
-- [掘金本文地址]()
+- [掘金本文地址](https://juejin.im/post/5d26e4fff265da1b7c614326)
 
