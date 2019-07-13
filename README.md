@@ -6,6 +6,8 @@
 
 ![](http://pt2k23f08.bkt.clouddn.com/blogscreenanimation1.gif)
 
+<img src="http://pt2k23f08.bkt.clouddn.com/blogscreenanimation1.gif" />
+
 ### 思路
 列表滚动的时候，获取垂直方向的滚动距离，再将这个值转化成角度单位带动齿轮的滚动
 
