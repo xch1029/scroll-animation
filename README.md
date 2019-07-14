@@ -4,7 +4,7 @@
 
 本篇文章我们一起开发一个炫炫的列表展示，伴随着滚动，背景做一些相应的动画效果。先看下效果图:
 
-<img src="http://qiniu.tbmao.com/blogscreenanimation1.gif" />
+<img src="http://qiniu.tbmao.com/blogscreenanimation1.gif">
 
 
 ### 思路
